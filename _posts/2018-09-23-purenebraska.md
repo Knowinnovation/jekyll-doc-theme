@@ -5,8 +5,8 @@ date: 2018-09-23
 author: Dagen Valentine
 ---
 
-<iframe width="560" height="315" src="https://videopress.com/embed/n3EhV1zn" frameborder="0" allowfullscreen></iframe>
-<script src="https://videopress.com/videopress-iframe.js"></script>
+{% include videopressPlayer.html id=page.youtubeId %}
+
 
 ### What is Telepresence Robotics?
 A Mobile Telepresence Robot (MTR) is a computer or tablet or smart-phone controlled robot which includes video, audio, and controls.  These features enable an MTR ’pilot’ to interact with a distant environment.
