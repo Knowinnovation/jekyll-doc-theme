@@ -13,8 +13,8 @@ On September 21, 2018 Dagen Valentine and David Martin were guests on 10/11 News
 
 {% include videopressPlayer.html id=page.videopressId %}
 
-Video Credit: Pure Nebraska/Facebook link to video
+Video Credit: [Pure Nebraska](https://www.facebook.com/PureNebraska/)/[Facebook link to video](https://www.facebook.com/PureNebraska/videos/2036154386429443/?__xts__[0]=68.ARALifxY1PczjfrxFwxM3Opk0ctkzXC74sqx1vdVdFnUNj0y2qoVIyz4NE0-jQyUDMC4Oj_TPh8ec0NQIf7WWTrmocoumuKEIzWVz_RW3xJKKL9zrg53gswmrJsbv9czWtADGjCDeuk8wJxfjzjEz9l0rHrtam67oePOOZBUoJ2YI2txX-Niz6M&__tn__=H-R)
 
-Pure Nebraska Facebook
+[Pure Nebraska Facebook](https://www.facebook.com/PureNebraska/)
 
-Nebraska Innovation Studio Twitter
+[Nebraska Innovation Studio Twitter](https://twitter.com/nis_makers)
