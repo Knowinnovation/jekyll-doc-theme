@@ -10,8 +10,35 @@ author: Dagen Valentine
 
 One of the goals of the project is to explore the digital creation of artifacts in VR and bringing them into the real world as physical manifestations. The lead project team challenged the UNL students on the project to create something in VR and then bring it into the real world using the fabrication equipment in the makerspace: CNC router, Laser Cutter and 3D printer.  Below you will find the students’ projects and how to recreate them.
 
-## VR to CNC
-![Marble Maze]({{ "../assets/FTNNBCIJNCCYUF2.LARGE_-3168645440-1540656162428.webp" | absolute_url }})
+### VR to CNC
+![Marble Maze]({{ "../assets/FDMLAUIJNCCYFXG.LARGE_-988555132-1540656005862.webp" | absolute_url }})
 [MARBLE MAZE](https://www.instructables.com/id/Marble-Maze-5/) Author: Dane G.
+
+
 ![Marble Maze]({{ "../assets/FTNNBCIJNCCYUF2.LARGE_-3168645440-1540656162428.webp" | absolute_url }})
+[VR CNC PLAQUE](https://www.instructables.com/id/VR-CNC-Plaque/) Author: Alex Z.
+
+---
+
+### VR to CNC
+
+![Marble Maze]({{ "../assets/FDMLAUIJNCCYFXG.LARGE_-988555132-1540656005862.webp" | absolute_url }})
 [MARBLE MAZE](https://www.instructables.com/id/Marble-Maze-5/) Author: Dane G.
+
+
+![Marble Maze]({{ "../assets/FTNNBCIJNCCYUF2.LARGE_-3168645440-1540656162428.webp" | absolute_url }})
+[VR CNC PLAQUE](https://www.instructables.com/id/VR-CNC-Plaque/) Author: Alex Z.
+
+![Marble Maze]({{ "../assets/FTNNBCIJNCCYUF2.LARGE_-3168645440-1540656162428.webp" | absolute_url }})
+[VR CNC PLAQUE](https://www.instructables.com/id/VR-CNC-Plaque/) Author: Alex Z.
+
+---
+
+### VR to 3D Printer
+
+![Marble Maze]({{ "../assets/FDMLAUIJNCCYFXG.LARGE_-988555132-1540656005862.webp" | absolute_url }})
+[MARBLE MAZE](https://www.instructables.com/id/Marble-Maze-5/) Author: Dane G.
+
+
+![Marble Maze]({{ "../assets/FTNNBCIJNCCYUF2.LARGE_-3168645440-1540656162428.webp" | absolute_url }})
+[VR CNC PLAQUE](https://www.instructables.com/id/VR-CNC-Plaque/) Author: Alex Z.
